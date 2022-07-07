@@ -1,0 +1,42 @@
+[Xray一键脚本]
+
+# 自己搭建vpn && xray && 科学上网 && VLESS协议 && XTLS
+# 此脚本仅限学习交流，禁止发布侮辱、造谣、损害国家利益等相关内容。
+# 脚本摘录大神[@hijkpw](https://github.com/hijkpw)[一键搭建脚本](https://github.com/hijkpw/scripts/tree/master) 非常感谢为自由上网做出的贡献
+
+#### 配置xray服务端界面
+  #############################################################
+  #                     Xray一键安装脚本                      #
+  # 作者: 网络跳越(hijk)                                      #
+  # 网址: https://hijk.art                                    #
+  # 论坛: https://hijk.club                                   #
+  # TG群: https://t.me/hijkclub                               #
+  # Youtube频道: https://youtube.com/channel/UCYTB--VsObzepVJtc9yvUxQ #
+  #############################################################
+    1.   安装Xray-VMESS
+    2.   安装Xray-VMESS+mKCP
+    3.   安装Xray-VMESS+TCP+TLS
+    4.   安装Xray-VMESS+WS+TLS(推荐)
+    5.   安装Xray-VLESS+mKCP
+    6.   安装Xray-VLESS+TCP+TLS
+    7.   安装Xray-VLESS+WS+TLS(可过cdn)
+    8.   安装Xray-VLESS+TCP+XTLS(推荐)
+    9.   安装trojan(推荐)
+    10.  安装trojan+XTLS(推荐)
+   -------------
+    11.  更新Xray
+    12.  卸载Xray
+   -------------
+    13.  启动Xray
+    14.  重启Xray
+    15.  停止Xray
+   -------------
+    16.  查看Xray配置
+    17.  查看Xray日志
+   -------------
+    0.   退出
+   当前状态：未安装
+
+    请选择操作[0-17]：  
+    
+ 
