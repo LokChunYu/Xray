@@ -1,17 +1,17 @@
-# [Xray一键脚本]
+# 1、【Xray一键脚本】
 
-# 自己搭建xray & 科学上网
-# 此脚本仅限学习交流，禁止发布侮辱、造谣、损害国家利益等相关内容。
-# 脚本摘录大神[@hijkpw](https://github.com/hijkpw)[一键搭建脚本](https://github.com/hijkpw/scripts/tree/master) 非常感谢为自由上网做出的贡献
+## 自己搭建xray & 科学上网
+## 此脚本仅限学习交流，禁止发布侮辱、造谣、损害国家利益等相关内容。
+## 脚本摘录大神[@hijkpw](https://github.com/hijkpw)[一键搭建脚本](https://github.com/hijkpw/scripts/tree/master) 非常感谢为自由上网做出的贡献！
 
-# +++配置xray服务端界面+++
+# 2、【配置服务端界面】
   #############################################################
   #                     Xray一键安装脚本                      #
-  # 作者: 网络跳越(hijk)                                      #
-  # 网址: https://hijk.art                                    #
-  # 论坛: https://hijk.club                                   #
-  # TG群: https://t.me/hijkclub                               #
-  # Youtube频道: https://youtube.com/channel/UCYTB--VsObzepVJtc9yvUxQ #
+  #### 作者: 网络跳越(hijk)                                      #
+  #### 网址: https://hijk.art                                    #
+  #### 论坛: https://hijk.club                                   #
+  #### TG群: https://t.me/hijkclub                               #
+  #### Youtube频道: https://youtube.com/channel/UCYTB--VsObzepVJtc9yvUxQ #
   #############################################################
  
  
@@ -41,7 +41,7 @@
 
     请选择操作[0-17]：  
     
- # 特别说明：大神[@hijkpw]
+ # 3、特别说明：大神[@hijkpw]
 TG群:最后一次公告
 
 经过我思考万分，已充分考虑到目前博客项目有可能会影响未来人生道路前程的发展。俗话说：人生道路还很长，绝不能因为此问题导致后悔终身。我因此做出了违背粉丝们的决定：停运博客及其附属项目
